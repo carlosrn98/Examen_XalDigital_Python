@@ -20,3 +20,6 @@ y un total de vistas de 25.
 
 R.- La respuesta más vieja tiene el id: 3214855, con un timestamp: 1278694607.
 La respuesta más reciente tien el id: 68630505, con un timestamp: 1278694607.
+
+![alt text](https://github.com/carlosrn98/Examen_XalDigital_Python/blob/master/2a4.png?raw=true)
+![alt text](https://github.com/carlosrn98/Examen_XalDigital_Python/blob/master/5.png?raw=true)
